@@ -106,6 +106,6 @@ Input the username and password we made for our VM and click ok. If successful a
 <img src="https://i.imgur.com/wVsMeKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click yes, and If everything was done right, then congratulations you've seccussfully created a VM.
+Click yes, and If everything was done right, then congratulations you've seccussfully created a VM. Theres is alot of information about azure i skipped over (recourse groups, network interface cards, ect) for the sake of simplicity, this is the bare minume needed to create a VM.  i highly recommend reading or even watching some youtube videos about azure on the things i named.
 </p>
 <br />
