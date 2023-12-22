@@ -2,6 +2,10 @@
 <img src="https://i.imgur.com/MaIKufJ.png"/>
 </p>
 
+<h2>Summary</h2>
+<p>This is a walk-through on how to use Microsoft Azure to create Virtual Machines (VMs), it shows step-by-step how to create an Azure account and proceed from that to making Vms in the cloud and logging in remotely. The environments used are Azure, Windows 10, and Remote Desktop connection. </p>
+
+
 <h2>Azure Compute and Networking - Prerequisites and Installation</h2>
 
 - laptop (or any device with access to the web)
